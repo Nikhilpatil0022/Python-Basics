@@ -28,3 +28,30 @@ x x x x x<br/>
 x x x x x<br/>
 x x x x x<br/>
 x x x x x<br/>
+1. Write a program which accept one number from user and return its factorial. 
+1. Write a program which accept one number form user and return addition of its factors. 
+1. Write a program which accept one number for user and check whether number is prime or not.
+1. Write a program which accept one number and display below pattern.<br/>
+**Input : 5<br/>
+Output :**<br/>
+x x x x x<br/>
+x x x x<br/>
+x x x<br/>
+x x<br/>
+x<br/>
+1. Write a program which accept one number and display below pattern.<br/>
+**Input : 5<br/>
+Output :**<br/> 
+1 2 3 4 5<br/>
+1 2 3 4 5<br/>
+1 2 3 4 5<br/>
+1 2 3 4 5<br/>
+1 2 3 4 5 <br/>
+1. Write a program which accept one number and display below pattern.
+**Input : 5<br/>
+Output :**<br/>
+1<br/>
+1 2<br/>
+1 2 3<br/>
+1 2 3 4<br/>
+1 2 3 4 5 <br/>
