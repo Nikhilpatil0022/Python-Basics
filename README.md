@@ -1,5 +1,5 @@
-# Python-Basics
-Basic syntax of python programming
+# Python-Basics<br/>
+Basic syntax of python programming 
 Assignment 1:
   1.Write a program which contains one function named as Fun(). That function should display
   2. Write a program which contains one function named as ChkNum() which accept one
