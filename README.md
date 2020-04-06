@@ -55,3 +55,6 @@ Output :**<br/>
 1 2 3<br/>
 1 2 3 4<br/>
 1 2 3 4 5 <br/>
+
+1. Write a program which accept number from user and return number of digits in that number. 
+1. Write a program which accept number from user and return addition of digits in that number. 
