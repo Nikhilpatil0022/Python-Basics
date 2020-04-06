@@ -23,8 +23,8 @@ functions from Arithmetic module by accepting the parameters from user.
 1. Write a program which accept one number and display below pattern.<br/>
 **Input** : 5<br/>
 **Output** :<br/>
-* * * * *<br/>
- * * * * *<br/>
- * * * * *<br/>
- * * * * *<br/>
- * * * * * <br/>
+x x x x x<br/>
+x x x x x<br/>
+x x x x x<br/>
+x x x x x<br/>
+x x x x x<br/>
