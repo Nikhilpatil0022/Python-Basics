@@ -92,8 +92,8 @@ Output :**<br/>
 ####  Assignment : 4 <br/>
 1. Write a program which contains one lambda function which accepts one parameter and return
   power of two.<br/>
-  Input : 4 Output : 16<br/>
-  Input : 6 Output : 64<br/>
+  Input : 4 <t/>Output : 16<br/>
+  Input : 6 <t/>Output : 64<br/>
 2. Write a program which contains one lambda function which accepts two parameters and return
   its multiplication.<br/>
   Input : 4 3 Output : 12<br/>
@@ -123,5 +123,23 @@ Output :**<br/>
   Input List = [2, 70 , 11, 10, 17, 23, 31, 77]<br/>
   List after filter = [2, 11, 17, 23, 31]<br/>
   List after map = [4, 22, 34, 46, 62]<br/>
-  Output of reduce = 62 <br/>
+  Output of reduce = 62 <br/><br/>
 
+#### Assignment : 5 <br/>
+1. Write a recursive program which display below pattern.<br/>
+Input : 5<br/>
+Output : x x x x x <br/>
+2. Write a recursive program which display below pattern.<br/>
+Input : 5<br/>
+Output : 1 2 3 4 5<br/>
+3.Write a recursive program which display below pattern.<br/>
+Input : 5<br/>
+Output : 5 4 3 2 1<br/>
+4.Write a recursive program which accept number from user and return
+summation of its digits.<br/>
+Input : 879<br/>
+Output : 24<br/>
+5. Write a recursive program which accept number from user and return its
+factorial.<br/>
+Input : 5<br/>
+Output : 120 <br/>
