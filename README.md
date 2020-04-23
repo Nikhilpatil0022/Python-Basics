@@ -57,4 +57,34 @@ Output :**<br/>
 1 2 3 4 5 <br/>
 
 1. Write a program which accept number from user and return number of digits in that number. 
-1. Write a program which accept number from user and return addition of digits in that number. 
+1. Write a program which accept number from user and return addition of digits in that number. <br/><br/>
+
+#### Assignment : 3 <br/>
+1. Write a program which accept N numbers from user and store it into List. Return addition of all
+   elements from that List. </br>
+   Input : Number of elements : 6<br/>
+   Input Elements : 13 5 45 7 4 56 <br/>
+   Output : 130 <br/>
+1. Write a program which accept N numbers from user and store it into List. Return Maximum
+  number from that List.<br/>
+  Input : Number of elements : 7<br/>
+  Input Elements : 13 5 45 7 4 56 34<br/>
+  Output : 56 <br/>
+1. Write a program which accept N numbers from user and store it into List. Return Minimum
+  number from that List.<br/>
+  Input : Number of elements : 4<br/>
+  Input Elements : 13 5 45 7<br/>
+  Output : 5<br/>
+1. Write a program which accept N numbers from user and store it into List. Accept one another
+  number from user and return frequency of that number from List.<br/>
+  Input : Number of elements : 11<br/>
+  Input Elements : 13 5 45 7 4 56 5 34 2 5 65<br/>
+  Element to search : 5<br/>
+  Output : 3<br/>
+1. Write a program which accept N numbers from user and store it into List. Return addition of all
+  prime numbers from that List. Main python file accepts N numbers from user and pass each
+  number to ChkPrime() function which is part of our user defined module named as
+  MarvellousNum. Name of the function from main python file should be ListPrime().<br/>
+  Input : Number of elements : 11<br/>
+  Input Elements : 13 5 45 7 4 56 10 34 2 5 8<br/>
+  Output : 54 (13 + 5 + 7 +2 + 5) <br/>
