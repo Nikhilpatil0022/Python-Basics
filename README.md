@@ -127,19 +127,19 @@ Output :**<br/>
 
 #### Assignment : 5 <br/>
 1. Write a recursive program which display below pattern.<br/>
-Input : 5<br/>
-Output : x x x x x <br/>
+  Input : 5<br/>
+  Output : x x x x x <br/>
 2. Write a recursive program which display below pattern.<br/>
-Input : 5<br/>
-Output : 1 2 3 4 5<br/>
-3.Write a recursive program which display below pattern.<br/>
-Input : 5<br/>
-Output : 5 4 3 2 1<br/>
-4.Write a recursive program which accept number from user and return
-summation of its digits.<br/>
-Input : 879<br/>
-Output : 24<br/>
+  Input : 5<br/>
+  Output : 1 2 3 4 5<br/>
+3. Write a recursive program which display below pattern.<br/>
+  Input : 5<br/>
+  Output : 5 4 3 2 1<br/>
+4. Write a recursive program which accept number from user and return
+  summation of its digits.<br/>
+  Input : 879<br/>
+  Output : 24<br/>
 5. Write a recursive program which accept number from user and return its
-factorial.<br/>
-Input : 5<br/>
-Output : 120 <br/>
+  factorial.<br/>
+  Input : 5<br/>
+  Output : 120 <br/>
