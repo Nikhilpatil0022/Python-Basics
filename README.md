@@ -94,11 +94,11 @@ Output :**<br/>
   power of two.<br/>
   Input : 4 <t/>Output : 16<br/>
   Input : 6 <t/>Output : 64<br/>
-2. Write a program which contains one lambda function which accepts two parameters and return
+1. Write a program which contains one lambda function which accepts two parameters and return
   its multiplication.<br/>
   Input : 4 3 Output : 12<br/>
   Input : 6 3 Output : 18<br/>
-3. Write a program which contains filter(), map() and reduce() in it. Python application which
+1. Write a program which contains filter(), map() and reduce() in it. Python application which
   contains one list of numbers. List contains the numbers which are accepted from user. Filter
   should filter out all such numbers which greater than or equal to 70 and less than or equal to
   90. Map function will increase each number by 10. Reduce will return product of all that
@@ -107,7 +107,7 @@ Output :**<br/>
   List after filter = [76, 89, 86, 90, 70]<br/>
   List after map = [86, 99, 96, 100, 80]<br/>
   Output of reduce = 6538752000<br/>
-4. Write a program which contains filter(), map() and reduce() in it. Python application which
+1. Write a program which contains filter(), map() and reduce() in it. Python application which
   contains one list of numbers. List contains the numbers which are accepted from user. Filter
   should filter out all such numbers which are even. Map function will calculate its square.
   Reduce will return addition of all that numbers.<br/>
@@ -115,7 +115,7 @@ Output :**<br/>
   List after filter = [2, 4, 4, 2, 8, 10]<br/>
   List after map = [4, 16, 16, 4, 64, 100]<br/>
   Output of reduce = 204<br/>
-5. Write a program which contains filter(), map() and reduce() in it. Python application which
+1. Write a program which contains filter(), map() and reduce() in it. Python application which
   contains one list of numbers. List contains the numbers which are accepted from user. Filter
   should filter out all prime numbers. Map function will multiply each number by 2. Reduce will
   return Maximum number from that numbers. (You can also use normal functions instead of
